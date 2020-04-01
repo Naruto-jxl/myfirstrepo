@@ -1,0 +1,332 @@
+DirE
+ntry
+ F_O
+K Mu
+tabl
+eMap
+ping
+ O_A
+PPEN
+D O_
+BINA
+RY O
+_CRE
+AT O
+_EXC
+L O_
+NOIN
+HERI
+T O_
+RAND
+OM O
+_RDO
+NLY 
+O_RD
+WR O
+_SEQ
+UENT
+IAL 
+O_SH
+ORT_
+LIVE
+D O_
+TEMP
+ORAR
+Y O_
+TEXT
+ O_T
+RUNC
+ O_W
+RONL
+Y P_
+DETA
+CH P
+_NOW
+AIT 
+P_NO
+WAIT
+O P_
+OVER
+LAY 
+P_WA
+IT P
+athL
+ike 
+R_OK
+ SEE
+K_CU
+R SE
+EK_E
+ND S
+EEK_
+SET 
+TMP_
+MAX 
+W_OK
+ X_O
+K _E
+nvir
+on _
+_all
+__ _
+_bui
+ltin
+s__ 
+__ca
+ched
+__ _
+_doc
+__ _
+_fil
+e__ 
+__lo
+ader
+__ _
+_nam
+e__ 
+__pa
+ckag
+e__ 
+__sp
+ec__
+ _ex
+ecvp
+e _e
+xist
+s _e
+xit 
+_fsp
+ath 
+_get
+_exp
+orts
+_lis
+t _p
+uten
+v _u
+nset
+env 
+_wra
+p_cl
+ose 
+abc 
+abor
+t ac
+cess
+ alt
+sep 
+chdi
+r ch
+mod 
+clos
+e cl
+oser
+ange
+ cpu
+_cou
+nt c
+urdi
+r de
+fpat
+h de
+vice
+_enc
+odin
+g de
+vnul
+l du
+p du
+p2 e
+nvir
+on e
+rror
+ exe
+cl e
+xecl
+e ex
+eclp
+ exe
+clpe
+ exe
+cv e
+xecv
+e ex
+ecvp
+ exe
+cvpe
+ ext
+sep 
+fdop
+en f
+sdec
+ode 
+fsen
+code
+ fsp
+ath 
+fsta
+t fs
+ync 
+ftru
+ncat
+e ge
+t_ex
+ec_p
+ath 
+get_
+hand
+le_i
+nher
+itab
+le g
+et_i
+nher
+itab
+le g
+et_t
+ermi
+nal_
+size
+ get
+cwd 
+getc
+wdb 
+gete
+nv g
+etlo
+gin 
+getp
+id g
+etpp
+id i
+satt
+y ki
+ll l
+ines
+ep l
+ink 
+list
+dir 
+lsee
+k ls
+tat 
+make
+dirs
+ mkd
+ir n
+ame 
+open
+ par
+dir 
+path
+ pat
+hsep
+ pip
+e po
+pen 
+pute
+nv r
+ead 
+read
+link
+ rem
+ove 
+remo
+vedi
+rs r
+enam
+e re
+name
+s re
+plac
+e rm
+dir 
+scan
+dir 
+sep 
+set_
+hand
+le_i
+nher
+itab
+le s
+et_i
+nher
+itab
+le s
+pawn
+l sp
+awnl
+e sp
+awnv
+ spa
+wnve
+ st 
+star
+tfil
+e st
+at s
+tat_
+resu
+lt s
+tatv
+fs_r
+esul
+t st
+rerr
+or s
+uppo
+rts_
+byte
+s_en
+viro
+n su
+ppor
+ts_d
+ir_f
+d su
+ppor
+ts_e
+ffec
+tive
+_ids
+ sup
+port
+s_fd
+ sup
+port
+s_fo
+llow
+_sym
+link
+s sy
+mlin
+k sy
+s sy
+stem
+ ter
+mina
+l_si
+ze t
+imes
+ tim
+es_r
+esul
+t tr
+unca
+te u
+mask
+ una
+me_r
+esul
+t un
+link
+ ura
+ndom
+ uti
+me w
+aitp
+id w
+alk 
+writ
+e 
